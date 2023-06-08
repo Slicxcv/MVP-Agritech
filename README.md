@@ -1,4 +1,4 @@
-<h1>AgriTech Web App (Django)</h1>
+<h1>Resident Farmers</h1>
 <br><br>
 Welcome to the AgriTech Web App repository! This repository contains the source code for an agricultural technology (AgriTech) platform built with Django. The web app includes a news feed, a micro-investment section, a chat forum, and an e-commerce section, all tailored to support farmers and agriculture enthusiasts.
 
